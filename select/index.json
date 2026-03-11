@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "午前6時の友達へ",
+  "base_artist": "DIALOGUE+",
+  "createdAt": "2026-03-11T14:09:30.026883Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "午前6時の友達へ",
+      "artist": "DIALOGUE+",
+      "has_synced": false,
+      "path": "select/pl_01_午前6時の友達へ_DIALOGUE+.txt"
+    }
+  ]
+}
